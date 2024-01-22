@@ -1,7 +1,7 @@
 # Spotify Activity Reader
 
 ## Overview
-This Python script utilizes the `spotipy` library to interact with the Spotify Web API, specifically to fetch information about the track currently playing on a user's Spotify account. The main purpose of this script is to assist in recording data for an empirical experiment related to new features on Spotify.
+This Python script was originally used to collect empirical data while conducting an experiment for History C182C: Introduction to Science, Technology and Society at UC Berkeley, the results of which can be viewed [here](https://docs.google.com/document/d/1AihURqtPM_gjCDILBot2BaV0z2UUntyKcxRa3jzwzMI/edit?usp=sharing). It utilizes the `spotipy` library to interact with the Spotify Web API, specifically to fetch information about the track currently playing on a user's Spotify account. The main purpose of this script is to assist in recording data for an empirical experiment related to new features on Spotify.
 
 ## Features
 - Fetches the currently playing track's title and artist from a user's Spotify account.
