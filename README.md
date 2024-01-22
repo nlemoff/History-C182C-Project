@@ -1,4 +1,4 @@
-# Spotify Current Track Info Script
+# Spotify Activity Reader
 
 ## Overview
 This Python script utilizes the `spotipy` library to interact with the Spotify Web API, specifically to fetch information about the track currently playing on a user's Spotify account. The main purpose of this script is to assist in recording data for an empirical experiment related to new features on Spotify.
